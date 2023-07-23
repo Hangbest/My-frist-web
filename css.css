@@ -1,3 +1,4 @@
+/* body style */
 body{
     margin: 0;
     line-height: 35px;
@@ -7,6 +8,8 @@ body{
     background-attachment: fixed ;
     background-size: 100% 100%;
 }
+
+/* the header style */
 header{
     text-align: center;
     background-color: rgb(232, 246, 255);
@@ -30,10 +33,14 @@ header h1{
     font-family: 'Orbitron';font-size: 16px;
     font-size: xx-large;
 }
+
+/* about the p and h2 */
 p ,h2 {
     color: rgb(255, 255, 255);
     font-family: 'Orbitron';font-size: 16px;
 }
+
+/* the main style */
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -53,6 +60,7 @@ li {
 a { text-decoration: none; color: brown;}
 a:hover{font-size: 1em; color: aqua;}
 
+/* about the footer */
 footer{
     text-align: center;
     background-color: rgb(232, 246, 255);
